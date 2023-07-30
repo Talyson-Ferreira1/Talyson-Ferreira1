@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+👋+seja+bem+vindo(a)!;+Sou+Talyson,+um+desenvolvedor+Web+FrontEnd;+Curso+análise+e+desenvolvimento+de+sistemas;+e+estou+em+busca+de+um+estágio+na+área.;+Confira+alguns+dos+meus+projetos+abaixo.;+Fique+à+vontade+para+me+contatar!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+👋+seja+bem+vindo(a)!;+Sou+Talyson,+um+desenvolvedor+Web+FrontEnd;+Curso+análise+e+desenvolvimento+de+sistemas;+e+estou+em+busca+de+um+estágio+na+área.;+Confira+alguns+dos+meus+projetos+abaixo.;+Fique+à+vontade+para+entrar+em+contato!:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
